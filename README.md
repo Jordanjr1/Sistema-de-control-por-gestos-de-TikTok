@@ -72,4 +72,4 @@ Las contribuciones son bienvenidas. Abre un *issue* o envía un *pull request* c
 
 ## 📄 Licencia
 
-jordanjr1.
+Proyecto de uso libre
