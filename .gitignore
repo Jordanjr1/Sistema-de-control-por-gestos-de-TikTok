@@ -1,0 +1,21 @@
+# Entorno virtual de Python
+venv/
+.venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración de VS Code y editores
+.vscode/
+.idea/
+
+# Binarios y ejecutables de ADB descargados localmente
+*.exe
+*.dll
+*.conf
+
+# Variables de entorno o credenciales locales
+.env
