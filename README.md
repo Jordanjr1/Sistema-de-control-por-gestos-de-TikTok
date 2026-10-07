@@ -1,4 +1,4 @@
-# TikTok Gesture & Motion Controller 🖐️📱
+# Sistema de control por gestos de TikTok 🖐️📱
 
 Sistema de control sin contacto para aplicaciones móviles (TikTok) utilizando Visión por Computadora (OpenCV + MediaPipe) y automatización asíncrona mediante ADB sobre Wi-Fi.
 
