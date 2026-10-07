@@ -20,7 +20,7 @@ Sistema de control sin contacto para aplicaciones móviles (TikTok) utilizando V
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/jordanjr1/tiktok-gesture-controller.git
+   git clone Jordanjr1/Sistema-de-control-por-gestos-de-TikTok.git
    cd tiktok-gesture-controller
    ```
 
